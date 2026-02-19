@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**geanlnyu/geanlnyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gean, a Software QA based in the Philippines.
 
-Here are some ideas to get you started:
+I'm on a mission to find every bug on the internet, one URL at a time. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My core automation stack features Cypress, Playwright, and JavaScript, complemented by a working knowledge of Python. 
+
+Beyond the code, I rely on a suite of documentation and project management tools, including Jira, Confluence, and Lark Base, as well as the Microsoft Office ecosystem.
+
+As a Hybrid QA Engineer, I balance the efficiency of automated frameworks with the critical eye of manual testing.
+
+
+Fun Facts:
+  • I love coffee
+  • Hobbies: Watching films, gaming
