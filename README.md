@@ -2,7 +2,7 @@
 
 I'm Gean, a Software QA based in the Philippines.
 
-I'm on a mission to find every bug on the internet, one URL at a time. 
+On a mission to find every bug on the internet, one URL at a time. 
 
 My core automation stack features Cypress, Playwright, and JavaScript, complemented by a working knowledge of Python. 
 
