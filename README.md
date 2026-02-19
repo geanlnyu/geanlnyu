@@ -11,6 +11,6 @@ Beyond the code, I rely on a suite of documentation and project management tools
 As a Hybrid QA Engineer, I balance the efficiency of automated frameworks with the critical eye of manual testing.
 
 
-Fun Facts:
-  • I love coffee
-  • Hobbies: Watching films, gaming
+### Fun Facts
+* ☕ **I love coffee**
+* 🎮 **Hobbies:** Watching films, gaming
